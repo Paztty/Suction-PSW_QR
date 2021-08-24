@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1.DEV\\1. Project\\1. Machine\\16. Suction PSW\\3. Software\\Suction PSW_QR\\Suction PSW_QR\\Suction PSW_QR\\Suction PSW_QR.csproj": {}
+  },
+  "projects": {
+    "D:\\1.DEV\\1. Project\\1. Machine\\16. Suction PSW\\3. Software\\Suction PSW_QR\\Suction PSW_QR\\Suction PSW_QR\\Suction PSW_QR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1.DEV\\1. Project\\1. Machine\\16. Suction PSW\\3. Software\\Suction PSW_QR\\Suction PSW_QR\\Suction PSW_QR\\Suction PSW_QR.csproj",
+        "projectName": "Suction PSW_QR",
+        "projectPath": "D:\\1.DEV\\1. Project\\1. Machine\\16. Suction PSW\\3. Software\\Suction PSW_QR\\Suction PSW_QR\\Suction PSW_QR\\Suction PSW_QR.csproj",
+        "packagesPath": "C:\\Users\\hvtan\\.nuget\\packages\\",
+        "outputPath": "D:\\1.DEV\\1. Project\\1. Machine\\16. Suction PSW\\3. Software\\Suction PSW_QR\\Suction PSW_QR\\Suction PSW_QR\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\hvtan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "WindowsAPICodePack-Shell": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

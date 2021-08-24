@@ -1,0 +1,30 @@
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR.csprojAssemblyReference.cache
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\MainWindow.g.cs
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\App.g.cs
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR_MarkupCompile.cache
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR_MarkupCompile.lref
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\Suction PSW_QR.exe.config
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\Suction PSW_QR.exe
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\Suction PSW_QR.pdb
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\System.Buffers.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\System.Memory.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\System.Text.Json.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\System.ValueTuple.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR.exe.config
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\MainWindow.baml
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\VTM_StyleDictionary.baml
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR.g.resources
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction_PSW_QR.Properties.Resources.resources
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR.csproj.GenerateResource.cache
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR.csproj.CoreCompileInputs.cache
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR.csproj.CopyComplete
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR.exe
+D:\1.DEV\1. Project\1. Machine\16. Suction PSW\3. Software\Suction PSW_QR\Suction PSW_QR\Suction PSW_QR\obj\x64\Debug\Suction PSW_QR.pdb
